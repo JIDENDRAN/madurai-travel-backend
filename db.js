@@ -113,7 +113,7 @@ export async function initDatabase() {
       seats: '4 Seater',
       ac: 'AC',
       price: '₹15/km',
-      desc: '[Outstation Plan]\nRate: ₹15/km\nMin Distance: Above 250 km\nDriver Charge: ₹300/day\n\n[Day Rental Plan]\nBase Rent: ₹1700/day\nPer km Charge: ₹10/km',
+      desc: '[Outstation Plan]\nRate: ₹15/km\nMin Distance: Above 250 km\nDriver Charge: ₹300/day\n\n[Day Rental Plan]\nBase Rent: ₹1700/day\nPer km Charge: ₹11/km',
       image: 'sedan_cab-removebg-preview.png',
       bgImage: 'munnar_bg.png'
     },
